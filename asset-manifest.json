@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/youthwin2023_app/static/css/main.7ee5fd18.chunk.css",
+    "main.js": "/youthwin2023_app/static/js/main.0f7dc09a.chunk.js",
+    "main.js.map": "/youthwin2023_app/static/js/main.0f7dc09a.chunk.js.map",
+    "runtime-main.js": "/youthwin2023_app/static/js/runtime-main.3dccf46c.js",
+    "runtime-main.js.map": "/youthwin2023_app/static/js/runtime-main.3dccf46c.js.map",
+    "static/js/2.2d25b227.chunk.js": "/youthwin2023_app/static/js/2.2d25b227.chunk.js",
+    "static/js/2.2d25b227.chunk.js.map": "/youthwin2023_app/static/js/2.2d25b227.chunk.js.map",
+    "static/js/3.c8ff48db.chunk.js": "/youthwin2023_app/static/js/3.c8ff48db.chunk.js",
+    "static/js/3.c8ff48db.chunk.js.map": "/youthwin2023_app/static/js/3.c8ff48db.chunk.js.map",
+    "index.html": "/youthwin2023_app/index.html",
+    "static/css/main.7ee5fd18.chunk.css.map": "/youthwin2023_app/static/css/main.7ee5fd18.chunk.css.map",
+    "static/js/2.2d25b227.chunk.js.LICENSE.txt": "/youthwin2023_app/static/js/2.2d25b227.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/youthwin2023_app/static/media/bellowebbg.bb674823.png",
+    "static/media/noPics.c3f94521.png": "/youthwin2023_app/static/media/noPics.c3f94521.png",
+    "static/media/youthwinlogo.8f58742a.jpeg": "/youthwin2023_app/static/media/youthwinlogo.8f58742a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dccf46c.js",
+    "static/js/2.2d25b227.chunk.js",
+    "static/css/main.7ee5fd18.chunk.css",
+    "static/js/main.0f7dc09a.chunk.js"
+  ]
+}
